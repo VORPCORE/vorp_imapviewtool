@@ -7,6 +7,7 @@ a tool to easy find imaps and toggle them on
 * the colors indicate the state of the IPL
 * point the "X" and press E to toggle them on and off
 * works best in noclip 
+* to activate use the command /imapview
 
 ## Note
 
